@@ -1,6 +1,6 @@
-# lite-xl-syntaxes
+# Lite XL Syntax Plugins
 
-Vibecoded Lite XL syntaxes for obscure languages.
+Vibecoded Lite XL syntax plugins for obscure languages.
 
 I dislike writing regexes, so I had AI do it for me.
 
