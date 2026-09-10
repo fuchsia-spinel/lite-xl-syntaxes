@@ -9,3 +9,5 @@ Currently available:
 - Joy
 - q
 - Rhombus
+
+I'm placing all of these under the Unlicense.
